@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-698.000000, -423.000000)" fill-rule="nonzero" fill="#003057">
+            <g id="Group-42" transform="translate(698.000000, 423.000000)">
+                <g id="Group-14">
+                    <polygon id="Stroke-1" points="17.5054908 3.43384902 3.43384902 17.5054908 4.49450919 18.566151 18.566151 4.49450919"></polygon>
+                    <path d="M20.1998507,11 C20.1998507,16.0813088 16.0813088,20.1998507 11,20.1998507 C5.91869117,20.1998507 1.80014925,16.0813088 1.80014925,11 C1.80014925,5.91869117 5.91869117,1.80014925 11,1.80014925 C16.0813088,1.80014925 20.1998507,5.91869117 20.1998507,11 L21.6998507,11 C21.6998507,5.09026405 16.909736,0.300149254 11,0.300149254 C5.09026405,0.300149254 0.300149254,5.09026405 0.300149254,11 C0.300149254,16.909736 5.09026405,21.6998507 11,21.6998507 C16.909736,21.6998507 21.6998507,16.909736 21.6998507,11 L20.1998507,11 Z" id="Stroke-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

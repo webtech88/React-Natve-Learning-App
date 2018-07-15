@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29px"
+   height="28px"
+   viewBox="0 0 29 28"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="add-connection.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="700"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="8.4285714"
+     inkscape:cx="14.5"
+     inkscape:cy="14"
+     inkscape:window-x="983"
+     inkscape:window-y="74"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Page-1" />
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">add-connection</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="add-connection">
+      <g
+         id="Group-37"
+         fill-rule="nonzero"
+         fill="#003057">
+        <path
+           d="M16.3744056,13.1994667 C16.8983577,13.0103642 18.25125,11.4398222 18.25125,10.3111111 L18.25125,9.0666667 C18.25125,8.2888889 17.49625,7.72764444 17.00125,7.44391111 L17.00125,5.33333333 C17.00125,2.22097778 15.90375,0.64177778 13.74125,0.64177778 C12.51,0.64177778 11.14375,1.15573333 9.82375,1.65102222 C9.4625,1.78915556 9.1075,1.91982222 8.7675,2.03804444 C6.95875,2.09653333 5.75125,3.55502222 5.75125,5.70666667 L5.75125,7.30702222 C5.02375,7.56337778 4.50125,8.2552889 4.50125,9.0666667 L4.50125,10.3111111 C4.50125,11.4896 5.29625,12.8311111 6.40375,13.1994667 C6.66875,15.6933333 9.06918818,17.7686915 11.4654382,17.7686915 L3.25796495,17.7777778 L12.2933084,17.7777778 C12.6133076,17.9028093 12.8623356,17.9409026 12.9967731,17.8799253 C13.1312105,17.8189479 12.6379625,17.8592084 12.8361073,17.7777778 C12.7158204,17.6146116 12.8268678,17.0283585 12.8361073,16.6593071 C12.9234914,13.1689652 12.8361073,16.7781929 12.8361073,16.3310122 L12.6034583,16.5095567 C8.75053717,16.5095567 7.625,14.7251556 7.625,12.6705778 C7.625,12.3296 7.345,12.0483556 7,12.0483556 C6.36875,12.0483556 5.75,11.0540444 5.75,10.3086222 L5.75,9.0641778 C5.75,8.7219556 6.03,8.4419556 6.375,8.4419556 C6.72,8.4419556 7,8.1619556 7,7.81973333 L7,5.70417778 C7,4.5344 7.4925,3.27751111 8.875,3.27751111 C8.94375,3.27751111 9.01125,3.2688 9.07625,3.2464 C9.45625,3.11448889 9.855,2.96515556 10.2625,2.81208889 C11.47875,2.35911111 12.73625,1.88622222 13.73875,1.88622222 C14.34125,1.88622222 15.75,1.88622222 15.75,5.33084444 L15.75,7.81973333 C15.75,8.0648889 15.895,8.2876444 16.12,8.3872 C16.52,8.5664 16.97375,8.9173333 17,9.0641778 L17,10.3086222 C17,11.0739556 16.195,12.0483556 15.5625,12.0483556 C15.21875,12.0483556 15.0233334,12.8846248 15.2839674,12.9268003 C15.6605559,12.9877393 16.1658099,13.0510373 16.3744056,13.1994667 Z M13.5525,24 L0.75,24 C0.405,24 0.125,23.7212444 0.125,23.3777778 C0.125,19.4752 3.10625,16.5333333 7.05875,16.5333333 C7.40375,16.5333333 7.68375,16.8120889 7.68375,17.1555556 C7.68375,17.4990222 7.40375,17.7777778 7.05875,17.7777778 C3.98,17.7777778 1.69,19.8360889 1.405,22.7555556 L13.2879649,22.7555556 C13.0017149,19.8360889 13.8975,24 13.5525,24 Z"
+           id="Combined-Shape" />
+      </g>
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#04345a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 20.5,11 C 15.811502,11 12,14.811502 12,19.5 12,24.188498 15.811502,28 20.5,28 25.188498,28 29,24.188498 29,19.5 29,14.811502 25.188498,11 20.5,11 Z m 0,1 C 24.648058,12 28,15.351942 28,19.5 28,23.648058 24.648058,27 20.5,27 16.351942,27 13,23.648058 13,19.5 13,15.351942 16.351942,12 20.5,12 Z"
+         id="Oval"
+         inkscape:connector-curvature="0" />
+      <rect
+         id="Rectangle-14"
+         x="20"
+         y="16"
+         width="1"
+         height="7"
+         fill-rule="nonzero"
+         fill="#06355B" />
+      <rect
+         id="Rectangle-15"
+         x="17"
+         y="19"
+         width="7"
+         height="1"
+         fill-rule="nonzero"
+         fill="#04345A" />
+    </g>
+  </g>
+</svg>

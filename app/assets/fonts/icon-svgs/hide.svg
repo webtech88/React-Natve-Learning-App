@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Disclosure Indicator</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1191.000000, -170.000000)" fill="#003057">
+            <path d="M1200.71425,173.429846 L1195.2844,168 L1194,169.284404 L1199.42985,174.71425 L1194,180.144096 L1195.2844,181.4285 L1200.71425,175.998654 L1200.7156,176 L1202,174.715596 L1201.99865,174.71425 L1202,174.712904 L1200.7156,173.4285 L1200.71425,173.429846 Z" id="Disclosure-Indicator" transform="translate(1198.000000, 174.714250) rotate(90.000000) translate(-1198.000000, -174.714250) "></path>
+        </g>
+    </g>
+</svg>

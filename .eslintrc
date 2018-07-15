@@ -1,0 +1,44 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    "max-len": ["error", 120],
+    "semi": ["error", "never"],
+    "indent": ["error", "tab"],
+    "generator-star-spacing": 0,
+    "import/no-extraneous-dependencies": 0,
+    "react/jsx-filename-extension": 0,
+    "import/no-unresolved": 0,
+    "import/no-named-as-default": 0,
+    "new-cap": 0,
+    "no-case-declarations": 0,
+    "no-console": 0,
+    "global-require": 0,
+    "no-lonely-if": 0,
+    "require-yield": 0,
+    "react/jsx-first-prop-new-line": 0,
+    "react/no-string-refs": 1,
+    "no-tabs": 0,
+    "import/extensions": [
+      2,
+      "never"
+    ],
+    "react/jsx-indent-props": [2, "tab"],
+    "react/jsx-indent": [2, "tab"],
+    "no-confusing-arrow": ["error", {"allowParens": true}],
+    "no-use-before-define": ["error", { "variables": false }],
+    "camelcase": 0,
+    "react/prop-types": [2, { "ignore": ["style"] }]
+  },
+  "globals": {
+    "ReactElement": true,
+    "ReactComponent": true,
+    "ReactClass": true,
+    "__DEV__": true
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  }
+}

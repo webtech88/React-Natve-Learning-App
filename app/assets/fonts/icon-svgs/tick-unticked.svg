@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Messaging" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.-New-Chat" transform="translate(-16.000000, -458.000000)">
+            <g id="Group-9" transform="translate(-10.000000, 124.000000)">
+                <g id="Group" transform="translate(26.000000, 334.000000)">
+                    <path d="M1,12 C1,18.0760674 5.92434566,23 12,23 C18.0760674,23 23,18.0756543 23,12 C23,5.92393262 18.0756543,1 12,1 C5.92393262,1 1,5.92434566 1,12 Z M0,12 C0,5.372583 5.37112582,0 12,0 C18.627417,0 24,5.37112582 24,12 C24,18.627417 18.6288742,24 12,24 C5.372583,24 0,18.6288742 0,12 Z" id="Rectangle-7" fill-opacity="0.3" fill="#003057" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#00305A" opacity="0.300000012" points="10.9647059 16.5294118 6.20882353 12.4205882 7.47058824 10.9647059 10.7705882 13.8117647 16.2705882 7.47058824 17.7264706 8.73235294"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

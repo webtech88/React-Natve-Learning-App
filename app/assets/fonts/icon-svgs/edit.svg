@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Edit icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-35.2%" y="-33.0%" width="170.5%" height="170.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Messaging" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="18.-Chat-options" transform="translate(-207.000000, -170.000000)">
+            <g id="Group-11" transform="translate(136.000000, 100.000000)">
+                <g id="Group-13">
+                    <g id="Group-9" filter="url(#filter-1)" transform="translate(68.000000, 67.000000)">
+                        <g id="Group-8">
+                            <g id="Edit-icon" transform="translate(7.000000, 6.000000)">
+                                <g id="Group-21">
+                                    <g id="Group-33">
+                                        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                                        <g id="noun_592766_cc" transform="translate(6.000000, 6.000000)" fill="#003057">
+                                            <g id="Group">
+                                                <g transform="translate(0.000000, 0.171122)" id="Shape">
+                                                    <path d="M15.6622681,-0.995200011 C15.4848772,-0.974154421 15.320003,-0.89415127 15.1947178,-0.768327105 L1.54553163,12.7144056 C1.44055003,12.816496 1.36666198,12.9456269 1.33226309,13.0871254 L0.0198413439,18.7913584 C-0.0405820297,19.0523054 0.0390583943,19.3256099 0.230677826,19.5148926 C0.422297257,19.7041752 0.698975914,19.7828444 0.963144476,19.7231579 L6.73780017,18.4267413 C6.88398128,18.3941803 7.01772367,18.3210974 7.12332406,18.2160736 L20.7725102,4.73334086 C21.0758299,4.43027629 21.0758299,3.94255392 20.7725102,3.63948935 L16.3102763,-0.768327105 C16.1408585,-0.938009969 15.9020485,-1.02161927 15.6622681,-0.995200011 Z M15.7524971,0.876501463 L19.0991725,4.19046641 L6.56554481,16.571245 L3.21886936,13.2653826 L15.7524971,0.876501463 Z M2.55445585,14.8048774 L4.99884135,17.2194533 L1.84082652,17.9324824 L2.55445585,14.8048774 Z"></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
